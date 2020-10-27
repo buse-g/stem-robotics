@@ -9,4 +9,4 @@ for i in range(3):
         break
     else:
         continue
-print("you lost!")
+print(f"you lost! my number was {n}")
